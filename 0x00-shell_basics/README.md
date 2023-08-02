@@ -1,1 +1,3 @@
-shell basics project 0
+!#bin/bash
+
+echo 'shell basics project 0'
